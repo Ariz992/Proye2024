@@ -498,27 +498,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0
+      value: -9.67
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 48.15
+      value: 7.66
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 6.4
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0.48513788
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
       propertyPath: m_LocalRotation.z
@@ -526,7 +526,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.87443775
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
       propertyPath: m_RootOrder
@@ -538,11 +538,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 58.043003
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.45936
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.45936
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.45936
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
@@ -564,7 +576,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f73ec8e1caa157c42a733b3301c1e32d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mensaje: habia una vez un tigre
+  mensaje: TOO LATE, MAY GOD HAVE MERCY ON YOU
 --- !u!64 &478913141
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -658,6 +670,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.45936
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.45936
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.45936
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
 --- !u!1 &1014927597 stripped
@@ -723,7 +747,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f73ec8e1caa157c42a733b3301c1e32d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mensaje: habia una vez un tigre
+  mensaje: DO NOT PASS, RUN AWAY
 --- !u!1 &1413805438
 GameObject:
   m_ObjectHideFlags: 0
@@ -833,19 +857,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0
+      value: 5.05
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 48.15
+      value: 20.437
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 2.13
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
       propertyPath: m_LocalRotation.x
@@ -879,6 +903,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.45936
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.45936
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.45936
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 982fe7779e5f90c49917afd0bd443e61, type: 3}
 --- !u!1 &1506748803 stripped
@@ -899,7 +935,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f73ec8e1caa157c42a733b3301c1e32d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mensaje: habia una vez un tigre
+  mensaje: I TOLD YOU NOT TO PASS, RUN
 --- !u!64 &1506748805
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1002,7 +1038,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'habia una vez un pollito '
+  m_Text: a
 --- !u!222 &1826288235
 CanvasRenderer:
   m_ObjectHideFlags: 0
